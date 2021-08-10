@@ -1,3 +1,7 @@
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gauravyadav84.gauravyadav84"/><h1 align="center">
+
+
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
  Hi there! This is Mr. Royal
