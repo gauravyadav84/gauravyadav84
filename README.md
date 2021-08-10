@@ -1,19 +1,16 @@
-### Hi there 👋This Is Mr.Royal👋
+<h1 align="center">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+ Hi there! This is Mr. Royal
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
-<!--
-**gauravyadav84/gauravyadav84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Gaurav, Also Known as Mr. Royal**. <br><br>
+Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)Palghar in Class 9 in India.<br><br>
 
-Here are some ideas to get you started:
+- I’m currently working with Python.
+ - I’m currently learning some Python frameworks.
+ - Favorite Game is Basket Ball.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Also Available On :
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/775712466889211986)
