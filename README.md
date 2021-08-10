@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## Also Available On :
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/775712466889211986)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:gaurav.t.y0884@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/GauravY24525627)
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravyadav84&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravyadav84&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/><br>
