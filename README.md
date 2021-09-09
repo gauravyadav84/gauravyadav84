@@ -9,7 +9,7 @@
 </h1>
 
 **I'm Gaurav, Also Known as Mr. Royal**. <br><br>
-Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)Palghar in Class 9 in India.<br><br>
+Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar in Class 9 in India.<br><br>
 
 - I’m currently working with Python.
  - I’m currently learning some Python frameworks.
